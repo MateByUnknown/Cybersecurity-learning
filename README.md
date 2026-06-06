@@ -1,3 +1,17 @@
-# Cybersecurity-learning
+# Cybersecurity Learning Portfolio
 
-Documentation of my hands on experience through TryHackMe labs in Junior Penetration tester Path
+This repository contains my cybersecurity learning journey.
+
+## Topics
+- TryHackMe
+- Linux
+- Networking
+- Security Fundamentals
+
+## Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- ArcX CTI Analyst
+- Cambridge English B2 in ESOL International
+
+## Current Education
+Starting HBO-ICT Cybersecurity & Cloud (Dual Program) in September 2026.
