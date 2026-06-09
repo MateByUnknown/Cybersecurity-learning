@@ -1,0 +1,18 @@
+# Penetration Testing Frameworks
+
+# Platform
+TryHackMe
+
+## Topics covered
+- Penetration Testing Methodologies
+- Security Testing Frameworks
+- Structured Assessment approaches
+- Phases Penetration Testing
+
+## What I Learned
+This room introduced several penetration testing frameworks and highlighted the importance of following a structured methodology during security assessments.
+
+Rather than focusing on individual tools, the room emphasized the different stages involved in a penetration test, from planning and reconnaissance to reporting findings.
+
+## Key Takeaway
+A successful penetration test relies on a repeatable and structured process. Methodology is just as important as technical skills and tools.
