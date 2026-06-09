@@ -10,7 +10,7 @@ TryHackMe
 - Phases Penetration Testing
 
 ## What I Learned
-This room introduced several penetration testing frameworks and highlighted the importance of following a structured methodology during security assessments.
+This room introduced several penetration testing frameworks, for example PTES, NIST, OWASP WSTG/MASTG and highlighted the importance of following a structured methodology during security assessments.
 
 Rather than focusing on individual tools, the room emphasized the different stages involved in a penetration test, from planning and reconnaissance to reporting findings.
 
