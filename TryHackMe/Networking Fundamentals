@@ -1,0 +1,46 @@
+# Networking Fundamentals
+
+## Overview
+Completed the Networking Fundamentals room on TryHackMe as part of my cybersecurity foundation journey.
+
+This module focused on understanding how computer networks communicate and how networking knowledge is essential for cybersecurity.
+
+## Key Concepts Learned
+
+### OSI Model
+Studied the 7-layer OSI model and how different network functions operate at each layer.
+
+Key takeaway:
+Understanding where protocols operate helps identify vulnerabilities and troubleshoot security issues.
+
+### TCP/IP Model
+Learned how the TCP/IP model enables communication across networks and how protocols such as TCP, UDP, IP, HTTP, and DNS work together.
+
+### Network Protocols
+Covered common protocols including:
+- HTTP/HTTPS
+- DNS
+- TCP
+- UDP
+- SSH
+
+### Ports & Services
+Learned how ports are used to identify running services and why open ports are important during security assessments.
+
+Example:
+- Port 22 → SSH
+- Port 80 → HTTP
+- Port 443 → HTTPS
+
+## Cybersecurity Relevance
+
+Strong networking fundamentals are essential for:
+- Penetration testing
+- Threat analysis
+- Security monitoring
+- Incident response
+
+Understanding normal network behavior makes it easier to identify suspicious activity and potential attacks.
+
+## Platform
+TryHackMe - Pre Security Path
