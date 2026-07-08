@@ -1,0 +1,61 @@
+# Cloud Computing Fundamentals
+
+## Overview
+Completed the Cloud Computing Fundamentals room on TryHackMe as part of my Cyber Security & Cloud learning journey.
+
+This module introduced the fundamentals of cloud computing and how modern organizations use cloud services.
+
+## Key Concepts Learned
+
+### Cloud Deployment Models
+
+#### Public Cloud
+Cloud resources are provided by third-party providers and shared between customers.
+
+Examples:
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+
+#### Private Cloud
+Cloud infrastructure dedicated to a single organization, providing more control and customization.
+
+#### Hybrid Cloud
+A combination of public and private cloud environments working together.
+
+---
+
+## Cloud Service Models
+
+### IaaS (Infrastructure as a Service)
+Provides virtualized infrastructure such as:
+- Virtual machines
+- Storage
+- Networking
+
+### PaaS (Platform as a Service)
+Provides a platform where developers can build and deploy applications without managing underlying infrastructure.
+
+### SaaS (Software as a Service)
+Provides complete applications through the internet.
+
+Examples:
+- Microsoft 365
+- Google Workspace
+
+---
+
+## Cybersecurity Relevance
+
+Understanding cloud fundamentals is important for security because organizations must protect:
+
+- Identity and access management (IAM)
+- Cloud configurations
+- Data security
+- Network security
+- User permissions
+
+Misconfigured cloud environments are one of the common causes of security incidents.
+
+## Platform
+TryHackMe - Pre Security Path
