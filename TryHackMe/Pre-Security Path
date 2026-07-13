@@ -1,0 +1,139 @@
+# TryHackMe - Pre Security Path
+
+## Overview
+
+Successfully completed the TryHackMe Pre Security learning path.
+
+The objective of this path was to build a strong foundation in networking, operating systems and cybersecurity concepts before moving on to penetration testing.
+
+---
+
+# Topics Covered
+
+## Networking Fundamentals
+
+- OSI Model
+- TCP/IP Model
+- TCP vs UDP
+- IP Addressing
+- Public vs Private IP
+- Ports
+- DNS
+- HTTP & HTTPS
+- Routing
+- NAT
+
+### Skills gained
+
+- Understanding how devices communicate over a network
+- Identifying common protocols
+- Basic network troubleshooting
+- Understanding the attack surface of network services
+
+---
+
+## Linux Fundamentals
+
+Topics covered:
+
+- Linux file system
+- Terminal navigation
+- File permissions
+- Users & Groups
+- Basic Bash commands
+
+### Commands practiced
+
+- ls
+- cd
+- pwd
+- cat
+- grep
+- chmod
+- mkdir
+- touch
+- sudo
+
+### Skills gained
+
+- Confident navigation through Linux systems
+- Understanding Linux permissions
+- Working from the command line
+
+---
+
+## Windows Fundamentals
+
+Topics covered
+
+- Windows architecture
+- NTFS
+- User Accounts
+- File System
+- System configuration
+
+### Skills gained
+
+- Understanding basic Windows administration
+- Navigating the Windows operating system
+- Understanding user permissions
+
+---
+
+## Security Fundamentals
+
+Topics covered
+
+- CIA Triad
+- Authentication
+- Authorization
+- Encryption
+- Hashing
+- Encoding
+- Malware
+- Phishing
+- Social Engineering
+
+### Skills gained
+
+- Understanding fundamental cybersecurity concepts
+- Recognizing common attack techniques
+- Understanding basic defensive principles
+
+---
+
+## Networking & Security Concepts
+
+Learned how attackers use networking knowledge during reconnaissance.
+
+Examples include:
+
+- DNS lookups
+- Port scanning
+- Service enumeration
+- Banner grabbing
+
+---
+
+# Key Takeaways
+
+The Pre Security path significantly improved my understanding of:
+
+- Networking fundamentals
+- Linux command line
+- Windows basics
+- Security concepts
+- Reconnaissance fundamentals
+
+These topics provide the foundation for my current studies in the TryHackMe Junior Penetration Tester learning path.
+
+---
+
+# Next Goal
+
+Currently progressing through:
+
+- TryHackMe Security 101
+- TryHackMe Junior Penetration Tester Path
+
+The focus is now shifting from learning security fundamentals to applying offensive security techniques in practical lab environments.
